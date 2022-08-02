@@ -1,0 +1,17 @@
+*{
+    padding: unset;
+    margin: 0;
+    font-family: Shabnam;
+    overflow: hidden;
+
+}
+body{
+    direction: rtl;
+}
+a{
+    text-decoration: unset;
+    color: unset;
+}
+a:visited{
+    color: unset;
+}
